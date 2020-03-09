@@ -1,5 +1,5 @@
 import java.io.*;
-public class sort
+public class arrayPrint
 {
     public static void main(String args[])throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
